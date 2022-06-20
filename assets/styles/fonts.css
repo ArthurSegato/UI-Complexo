@@ -1,0 +1,21 @@
+/*
+*   FONTES
+*/
+@font-face {
+    font-family: 'Akrobat';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/Akrobat-SemiBold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Akrobat';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/Akrobat-ExtraBold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/montserrat-v24-latin-600.woff2') format('woff2');
+}
